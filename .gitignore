@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/node_modules/
+/dist/
+/.git/
+/app/css/
+/**/*.psd
+/**/Thumbs.db
+

@@ -1,0 +1,15 @@
+{
+	"directory" : "app/libs/",
+  "name": "purecss-start-template",
+  "version": "1.0.0",
+  "dependencies": {
+    "purecss": "latest",
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "libs",
+    "test",
+    "tests"
+  ]
+}
