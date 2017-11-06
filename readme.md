@@ -1,0 +1,1 @@
+<h1>Purecss start template</h1>

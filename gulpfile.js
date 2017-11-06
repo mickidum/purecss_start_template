@@ -39,8 +39,7 @@ gulp.task('common-js', function() {
 gulp.task('js',  function() {
 	return gulp.src([
 		'app/libs/jquery/dist/jquery.min.js',
-		'app/libs/what-input/dist/what-input.js',
-		'app/libs/foundation-sites/dist/js/foundation.js',
+		'app/libs/sweetalert2/dist/sweetalert2.min.js',
 		// 'app/js/common.min.js', 
 		])
 	.pipe(concat('scripts.min.js'))
