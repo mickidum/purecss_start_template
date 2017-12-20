@@ -1,0 +1,41 @@
+@import '../libs/purecss/pure-min.css';
+@import '../libs/purecss/grids-responsive-min.css';
+@import '../libs/sweetalert2/dist/sweetalert2.min.css';
+
+html,
+button,
+input,
+select,
+textarea,
+.pure-g [class *="pure-u"] {
+  /* Set your content font stack here: */
+  font-family: 'Assistant', Arial, Helvetica, sans-serif;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+// RESPONSIVE
+
+
+// medium screens ≥ 768px
+@media screen and (min-width: 48em) {
+  
+} 
+
+// large screens ≥ 1024px
+@media screen and (min-width: 64em) {
+  
+}
+
+// xlarge screens ≥ 1280px
+@media screen and (min-width: 80em) {
+
+}
+
+// xxlarge screens
+@media screen and (min-width: 100em) {
+  
+}
