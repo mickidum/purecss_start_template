@@ -3,7 +3,7 @@
   "name": "purecss-start-template",
   "version": "1.0.0",
   "dependencies": {
-    "purecss": "latest",
+    "purecss": "latest"
   },
   "ignore": [
     "**/.*",
