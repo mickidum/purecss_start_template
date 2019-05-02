@@ -1,7 +1,7 @@
 /node_modules/
 /dist/
 /.git/
-/app/css/
+/app/css/*.min.css
 /app/js/*.min.js
 /**/*.psd
 /**/Thumbs.db
